@@ -240,7 +240,7 @@ The application comes with 20 pre-loaded sample transactions including:
 - Multiple transaction types for demonstration
  
 
-## Development <a id="development"></a>
+## Development 
  
 ### Running in Development Mode
 ```bash
