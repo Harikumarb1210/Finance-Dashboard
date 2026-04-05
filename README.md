@@ -8,8 +8,8 @@ A modern, full-featured personal finance management dashboard built with React, 
 - [Technology Stack](#-technology-stack)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
-- [usage](#-usage)
-- [development](#-development)
+- [Usage](#-usage)
+- [Development](#-development)
 
 
 ## Features
