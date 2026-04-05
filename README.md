@@ -2,7 +2,7 @@
 
 A modern, full-featured personal finance management dashboard built with React, TypeScript, and Tailwind CSS. Track transactions, analyze spending patterns, and manage your finances with an intuitive and responsive interface.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](##features)
 - [Technology Stack](##technology-stack)
@@ -12,11 +12,11 @@ A modern, full-featured personal finance management dashboard built with React, 
 - [development](##development)
 
 
-## ✨ Features
+## Features
 
 ### Core Features
 
-#### 💰 Transaction Management
+#### Transaction Management
 - **View all transactions** with detailed information (date, amount, category, type)
 - **Add new transactions** with modal form interface (admin only)
 - **Edit existing transactions** to correct or update information (admin only)
@@ -24,7 +24,7 @@ A modern, full-featured personal finance management dashboard built with React, 
 - **Sortable table** - click headers to sort by date or amount
 - **Persistent storage** - transactions saved to browser localStorage
 
-#### 📊 Analytics & Insights
+#### Analytics & Insights
 - **Balance Trend Chart** - visualize balance changes over 45 days with line chart
 - **Category Spending Pie Chart** - see spending distribution across categories
 - **Highest Spending Category** - identifies your top expense area
@@ -33,7 +33,7 @@ A modern, full-featured personal finance management dashboard built with React, 
 - **Average Transaction** - calculates average transaction size
 - **Total Balance, Income, and Expenses** - key metrics at a glance
 
-#### 🔍 Search & Filter
+#### Search & Filter
 - **Transaction search** - find transactions by description in real-time
 - **Category filter** - filter by specific spending categories
 - **Type filter** - separate income and expense transactions
@@ -41,13 +41,13 @@ A modern, full-featured personal finance management dashboard built with React, 
 - **Clear filters** - quick reset button to remove all filters
 - **Scroll trigger** - filter card elevates with shadow on scroll for better UX
 
-#### 👤 Role-Based Access
+#### Role-Based Access
 - **Admin mode** - full access to add, edit, and delete transactions
 - **Viewer mode** - read-only access to view all data
 - **Easy role switching** - toggle between admin and viewer modes
 - **Permission checking** - sensitive operations protected by role validation
 
-#### 🌙 Dark Mode
+#### Dark Mode
 - **Light/Dark theme toggle** - switch themes with button in header
 - **System preference detection** - respects user's OS theme preference
 - **Persistent theme** - theme preference saved to localStorage
@@ -55,7 +55,7 @@ A modern, full-featured personal finance management dashboard built with React, 
 - **Accessible colors** - WCAG AA compliant color contrasts
 
 
-## 🛠 Technology Stack
+## Technology Stack
 
 ### Frontend Framework
 - **React 18.2.0** - Modern UI library with hooks support
@@ -85,7 +85,7 @@ A modern, full-featured personal finance management dashboard built with React, 
 - **@types/react & @types/react-dom** - TypeScript type definitions
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 finance-dashboard/
@@ -136,7 +136,7 @@ finance-dashboard/
 ```
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -172,7 +172,7 @@ Make sure your environment has:
    - Start by switching to "Admin" mode to test adding/editing transactions
 
 
-## 📸 Screenshots
+## Screenshots
  
 ### Dashboard Overview (Dark Mode)
 The main dashboard displays key financial metrics and interactive charts for comprehensive financial analysis.
@@ -196,7 +196,7 @@ The application supports both light and dark themes with a seamless toggle in th
 ![Dashboard Light Mode](./screenshots/dashboard_light_2.png)
 
 
-## 💻 Usage
+## Usage
  
 ### Basic Workflow
  
@@ -240,7 +240,7 @@ The application comes with 20 pre-loaded sample transactions including:
 - Multiple transaction types for demonstration
  
 
-## 🔧 Development
+## Development
  
 ### Running in Development Mode
 ```bash
