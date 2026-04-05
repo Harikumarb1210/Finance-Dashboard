@@ -2,15 +2,6 @@
 
 A modern, full-featured personal finance management dashboard built with React, TypeScript, and Tailwind CSS. Track transactions, analyze spending patterns, and manage your finances with an intuitive and responsive interface.
 
-## Table of Contents
-
-- [Features](#-features)
-- [Technology Stack](#-technology-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Usage](#-usage)
-- [Development](#-development)
-
 
 ## Features
 
