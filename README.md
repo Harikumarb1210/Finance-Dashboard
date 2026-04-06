@@ -228,7 +228,7 @@ The application comes with 20 pre-loaded sample transactions including:
 - Monthly salary ($5,000)
 - Various expense categories (Shopping, Transport, Utilities, etc.)
 - Freelance income ($800)
-- Multiple transaction types for demonstration
+- Multiple transaction types for demonstration.
  
 
 ## Development 
